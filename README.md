@@ -1,4 +1,4 @@
 # DemoGitHub
 This is the first online demo on GitHub
 
-This is a edit on mac
+This is an edit on mac
